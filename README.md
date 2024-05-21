@@ -1,7 +1,7 @@
 # Ola! 👋
 # Evellyn Karla
 
-<p> <img src="octocat.png" alt="Meu octocat" height= "150px" align="right" align: > Estudante de ADS, tenho 20 anos, moro em Pernambuco, Brasil. adoro programar e busco aprender mais com cursos e prática.
+<p> <img src="octocat.png" alt="Meu octocat" height= "150px" align="right" > Tenho 20 anos, moro em Pernambuco, Brasil e sou estudante de graduação. Sou comunicativa, conciliadora e animada, seja com amigos ou codando estou sempre animada com as atividades e com aprender. Cursei técnico em TI e atualmente estou estudando ADS no 3º periodo e o CDD4.0, para aprimoramento de Back-End e Soft Skills. Fui finalista do DemoDay.  
 
 ## Tecnologias
 
