@@ -1,7 +1,7 @@
 # Ola! 👋
 # Evellyn Karla
 
-<p> <div align="center"> <img src="octocat.png" alt="Meu octocat" height= "150px" align="right" > </div>Tenho 20 anos, moro em Pernambuco, Brasil e sou estudante de graduação. Sou comunicativa, conciliadora e animada, seja com amigos ou codando estou sempre animada com as atividades e com aprender. Cursei técnico em TI e atualmente estou estudando ADS no 3º periodo e o CDD4.0, para aprimoramento de Back-End e Soft Skills. Fui finalista do DemoDay e uma das convocadas para a Arena Digital no Rec'n'Play, pelo projeto MOM! Atualmente procurando estágio ou Jovem Aprendiz na área de tecnologia, com o objetivo de estar até o fim do ano combinando faculdade e emprego para impulsionar o aprendizado.   
+<p> <div align="center"> <img src="octocat.png" alt="Meu octocat" height= "150px" align="right" > </div>Tenho 20 anos, moro em Pernambuco, Brasil e sou estudante de graduação. Sou comunicativa, conciliadora e animada, seja com amigos ou codando estou sempre empenhada com as atividades. Cursei técnico em TI e atualmente estou estudando ADS no 5º periodo. Fui finalista do DemoDay e uma das convocadas para a Arena Digital no Rec'n'Play, pelo projeto MOM! Atualmente estagiando na EDX, empresa do Extreme Group, com a plataforma ServiceNow. Estou utilizando essa oportunidade para crescer e aprender o máximo possível, e me tornar uma profissional mais preparada e competente.
 
 ## Tecnologias
 
